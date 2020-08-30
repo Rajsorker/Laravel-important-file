@@ -1,2 +1,2 @@
-# Laravel-important-file
-PHP
+# laravel-important-files
+Some important functions and files for Laravel Projects
